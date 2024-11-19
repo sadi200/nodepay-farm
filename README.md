@@ -33,7 +33,7 @@ npm install
 
 To get your Bearer token:
 
-1. **Register for a Nodepay account** (https://app.nodepay.ai/register?ref=YGD2t6PkCbq9H4P)
+1. **Register for a Nodepay account** (https://app.nodepay.ai/register?ref=LXYgH17oRy1bTRD)
 - Go to Nodepay dashboard.
 
 2. **Get your token**:
